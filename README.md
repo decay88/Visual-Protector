@@ -5,9 +5,14 @@
 <a href="http://hackforums.net/showthread.php?tid=5349946">Thread Link</a><br>
 </p>
 
-## Credits
+## Credits:
 
 - [VisualSoft](https://hackforums.net/member.php?action=profile&uid=3114397)
+- [pr0sus](https://hackforums.net/member.php?action=profile&uid=1404391)
+- [Delirium™](https://hackforums.net/member.php?action=profile&uid=255459)
+- Aeonhack
+
+Various other people for various reasons.
 
 ## Features:
 
